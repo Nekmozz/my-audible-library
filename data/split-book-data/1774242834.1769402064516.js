@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>The heart of a hero. </b></p> <p>In the wilds of a jungle planet, the Legion fights in brutal combat as Republic marines fly their SLICS from one tragedy to the next. </p> <p>H292, a repurposed warbot, shows the heart of a hero as he wades into the battle not to destroy - but to save.</p>"; 
