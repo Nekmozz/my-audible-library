@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>An NPC story.</p> <p>With her pain potions in short supply, Maddie accepts a deadly run, picks up a package in Trox City, and crosses the desert plains to Port Troli. The only issues - an unwanted passenger and Tromoal breeding season.</p>"; 
